@@ -1,0 +1,7 @@
+flask
+flask-cors
+sklearn
+pandas
+numpy
+mysql-connector-python
+-e .
