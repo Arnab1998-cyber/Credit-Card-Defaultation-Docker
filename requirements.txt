@@ -3,5 +3,7 @@ flask-cors
 sklearn
 pandas
 numpy
+PyYAML
+gunicorn
 mysql-connector-python
 -e .
